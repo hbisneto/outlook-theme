@@ -1,0 +1,40 @@
+{
+    "name":"theme-outlook",
+    "displayName":"%displayName%",
+    "description":"%description%",
+    "categories":["Themes"],
+    "version":"1.0.0",
+    "publisher":"BisnetoInc",
+    "icon": "assets/icon.png",
+    "license":"MIT",
+    
+    "engines":
+    {
+        "vscode":"*"
+    },
+    
+    "contributes":
+    {
+        "themes":
+        [
+            {
+                "id":"Outlook (Dark)",
+                "label":"%OutlookDark%",
+                "uiTheme":"vs-dark",
+                "path":"./themes/Dark/outlook-theme-dark.json"
+            },
+            {
+                "id":"Outlook (Light)",
+                "label":"%OutlookLight%",
+                "uiTheme":"vs",
+                "path":"./themes/Light/outlook-theme-light.json"
+            }
+        ]
+    },
+    
+    "repository":
+    {
+        "type":"git",
+        "url":"https://github.com/hbisneto/outlook-theme.git"
+    }
+}

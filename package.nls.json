@@ -1,0 +1,7 @@
+{
+    "displayName":"Outlook Theme",
+    "description":"Microsoft Outlook Theme for Visual Studio Code",
+
+    "OutlookDark":"Outlook Theme (Dark)",
+    "OutlookLight":"Outlook Theme (Light)"
+}
