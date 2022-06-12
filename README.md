@@ -2,7 +2,7 @@
 
 Outlook theme brings Microsoft Outlook to Visual Studio Code.
 
-![Teams for Visual Studio Code](https://raw.githubusercontent.com/hbisneto/hbisneto.github.io/main/outlook-theme/banner.png)
+![Outlook for Visual Studio Code](https://raw.githubusercontent.com/hbisneto/hbisneto.github.io/main/outlook-theme/banner.png)
 
 ## Available Themes
 
