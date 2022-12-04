@@ -1,6 +1,6 @@
 {
 	"$schema": "vscode://schemas/color-theme",
-	"name": "Word Tokens",
+	"name": "Outlook Tokens",
 	"colors": {
 		"activityBar.background": "#000",
 		"activityBar.foreground": "#0f62a7",
@@ -16,6 +16,11 @@
 		"sideBar.background": "#141414",
 		"statusBar.background": "#137ad1",
 		"statusBar.noFolderBackground": "#137ad1",
+		"editorHoverWidget.background": "#137ad1", // Hover Background #454545
+		"editor.hoverHighlightBackground": "#137ad1", // HOVER BG #656565
+		"editorLink.activeForeground": "#0597dd", //link color
+		"editor.selectionBackground": "#137ad180", // Selection #ADD6FF20
+		"editor.selectionHighlightBackground": "#65656580", // SELECTION BG #656565
 		"statusBarItem.remoteBackground": "#0f62a7",
 		"ports.iconRunningProcessForeground": "#137ad1",
 		"editorGroupHeader.tabsBackground": "#000",
@@ -27,19 +32,19 @@
 		"editorCursor.foreground": "#FFFFFF",
 		"editor.foreground": "#FFFFFF",
 		"editorWhitespace.foreground": "#C4C4C4",
-		"editor.selectionBackground": "#ADD6FF20",
+		//"editor.selectionBackground": "#ADD6FF20",
 		"minimap.selectionHighlight": "#137ad1",
 		"editorLineNumber.foreground": "#C4C4C4",
 		"editorLineNumber.activeForeground": "#137ad1",
 		"editorWidget.background": "#141414",
-		"editorHoverWidget.background": "#454545",
+		//"editorHoverWidget.background": "#454545",
 		"editorSuggestWidget.background": "#000",
 		"editorSuggestWidget.border": "#000",
 		"editor.lineHighlightBackground": "#1F1F1F",
 		"editor.lineHighlightBorder": "#FFFFFF80",
-		"editor.hoverHighlightBackground": "#656565",
-		"editor.selectionHighlightBackground": "#656565",
-		"editorLink.activeForeground": "#137ad1",
+		//"editor.hoverHighlightBackground": "#656565",
+		//"editor.selectionHighlightBackground": "#656565",
+		//"editorLink.activeForeground": "#137ad1",
 		"peekViewTitle.background": "#137ad1",
 		"peekView.border": "#000",
 		"peekViewResult.background": "#141414",
